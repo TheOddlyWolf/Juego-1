@@ -1,2 +1,1 @@
-# Juego-1
-MI juego .:D
+# Juegos-compatibles-con-dispositivos
